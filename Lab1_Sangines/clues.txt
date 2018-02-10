@@ -1,0 +1,8 @@
+hexadecimal a1 a base 16
+asterisk    g4 a catch with an _
+ampersand   a4 d pass with an _
+bit         d1 d 8 _s make a byte
+byte        d1 a does your cyber-dog _?
+seo         d6 a office in 917 _
+sense       c7 d common _
+kilo        f9 d K, as in _bytes
